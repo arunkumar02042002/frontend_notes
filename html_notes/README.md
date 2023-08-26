@@ -1,9 +1,9 @@
 # Introduction to HTML
 
 ## Difference Between HTML vs CSS vs JavaScript
-| Feature | HTML | CSS | JavaScript |
-| ___ | ___ | ___ | ___ |
-| Stands for | Hypertext Markup Language | Cascading Style Sheets | JavaScript |
+| Feature  | HTML | CSS  | JavaScript |
+| ------------- | ------------- |
+| Stands For  | Hypertext Markup Language | Cascading Style Sheets | JavaScript |
 | Purpose | Defines content and structure of web pages | Defines styles and layouts for web pages | Adds interactivity and behavior to web pages |
 | Type of Language | Markup Language | Style Sheet Language | Programming Language |
 | Syntax | Uses tags to define elements and attributes | Uses selectors and declarations to style elements | Uses statements and expressions to perform actions and calculations |
