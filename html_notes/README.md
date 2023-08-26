@@ -8,7 +8,7 @@
 | Type of Language | Markup Language | Style Sheet Language | Programming Language |
 | Syntax | Uses tags to define elements and attributes | Uses selectors and declarations to style elements | Uses statements and expressions to perform actions and calculations |
 | Role | Defines content and structure of web pages | Enhances the presentation of web pages | Adds functionality and interactivity to web pages |
-| Examples	| ```html <html>, <head>, <body>, <p>, <img>, etc.``` | color, font, margin, padding, etc. | if/else statements, loops, event handlers, etc. |
+| Examples	| ```<html>, <head>, <body>, <p>, <img>, etc.``` | color, font, margin, padding, etc. | if/else statements, loops, event handlers, etc. |
 
 ## Hypertext Markup Language ( HTML ):
 *HTML is a markup language used to describe the content and structure of a webpage. It uses a set of tags and attributes to define the structure of the content, such as headings, paragraphs, links, images, tables, and forms. The HTML code is interpreted by the browser to render the webpage, and it tells the browser how to display the content and where to position it on the page.*
